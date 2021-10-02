@@ -4,7 +4,7 @@
 
 I like
 - ☕ coffee
-- 🧗 climbing
+- :coffee: more coffee
 
 and coding of course 💻
 

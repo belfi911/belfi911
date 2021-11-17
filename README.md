@@ -1,6 +1,6 @@
 ## Hello, I'm belfi911
 
-### I'm an analytic data! 
+### I'm an analytic! 
 
 I like
 - ☕ coffee
